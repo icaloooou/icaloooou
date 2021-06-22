@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @icaloooou
-- 👀 I’m interested na formação de backend
-- 🌱 I’m currently learning  python e SQL
-- 📫 How to reach me : email- rockingrid6@gmail.com
+- 👋 Oi, eu sou @icaloooou
+- 👀 Estou interessada na formação de backend
+- 🌱 Atualmente aprendendo python e SQL
+- 📫 Mande um e-mail para mim: rockingrid6@gmail.com
