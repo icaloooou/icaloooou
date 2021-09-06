@@ -1,4 +1,4 @@
 - 👋 Oi, eu sou @icaloooou
-- 👀 Estou interessada na formação de backend e engenharia de dados
+- 👀 Estou interessada na área de dados. Mais precisamente na formação de Engenheira de Dados.
 - 🌱 Atualmente aprendendo python e SQL
 - 📫 Mande um e-mail para mim: rockingrid6@gmail.com
