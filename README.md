@@ -1,4 +1,3 @@
 - 👋 Oi, eu sou @icaloooou
-- 👀 Estou interessada na área de dados. Mais precisamente na formação de Engenheira de Dados.
-- 🌱 Atualmente aprendendo python e SQL
-- 📫 Mande um e-mail para mim: rockingrid6@gmail.com
+- 👀 Estou interessada na área de dados. Mais precisamente na formação de Engenharia de Dados.
+- 📫 Me encontre: rockingrid6@gmail.com e https://www.linkedin.com/in/ingridcbatista/
