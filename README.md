@@ -1,3 +1,3 @@
 - 👋 Oi, eu sou @icaloooou
-- 👀 Estou interessada na área de dados. Mais precisamente na formação de Engenharia de Dados.
+- 👀 Estou focada na área de dados, mais precisamente Engenharia de Dados
 - 📫 Me encontre: rockingrid6@gmail.com e https://www.linkedin.com/in/ingridcbatista/
