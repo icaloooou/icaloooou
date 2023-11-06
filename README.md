@@ -1,7 +1,7 @@
 ### Olá,
 **eu** sou a Ingrid e me apaixonei pelo mundo dos dados! 💜
 
-### Hi everyone,
+### Hello everyone,
 **I'm** Ingrid and I fell in love with the world of data! 💜
 
 ---
